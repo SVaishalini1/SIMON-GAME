@@ -3,8 +3,7 @@
 
 
 A classic memory game implemented using HTML, CSS, and JavaScript. Test your memory and concentration by following the ever-increasing sequences of colors!
----
-# About the Game
+## About the Game
 The Simon Game is a simple yet challenging game that tests a player's short-term memory. The game presents a sequence of colored lights and sounds, and the player must repeat the sequence in the correct order. Each round, the sequence gets longer, making it progressively more difficult.
 ---
 ## How to Play
